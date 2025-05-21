@@ -1,0 +1,44 @@
+Projet : Location de voitures
+Étudiante : [Hiba Ayech]
+DA : [2496332]
+Cours : Programmation Web Avancée (582-31VB-MA)
+
+------------------------------
+# Installation locale (XAMPP)
+------------------------------
+
+##. Placer le dossier `location_voitures/` dans :
+   C:\xampp\htdocs\location_voitures\
+
+##. Importer la base de données :
+   - Ouvrir phpMyAdmin : http://localhost/phpmyadmin
+   - Créer une base de données nommée : location_voitures
+   - Importer le fichier : db.sql (fourni dans ce projet)
+
+##. Configuration de la connexion (fichier Classe/CRUD.php) :
+   - Hôte : localhost
+   - Utilisateur : root
+   - Mot de passe : (laisser vide)
+   - Base de données : location_voitures
+
+##. Accéder au projet :
+   http://localhost/location_voitures/index.php
+
+------------------------------
+Accès en ligne 
+------------------------------
+
+## WebDev : https://webdev.cmaisonneuve.qc.ca/~[ton_utilisateur]/location_voitures/
+
+## GitHub : 
+
+------------------------------
+Contenu du projet
+------------------------------
+
+- `Classe/` : Contient la classe CRUD (accès DB)
+- `css/` : Styles globaux
+- `*.php` : Fichiers de création, édition, suppression, affichage pour chaque entité :
+  - `cars`, `customers`, `employees`, `rentals`
+- `db.sql` : Script SQL pour générer les tables
+- `installation.txt` : Ce fichier d'instructions
