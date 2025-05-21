@@ -28,9 +28,9 @@ Cours : Programmation Web Avancée (582-31VB-MA)
 Accès en ligne 
 ------------------------------
 
-## WebDev : https://webdev.cmaisonneuve.qc.ca/~[ton_utilisateur]/location_voitures/
+## WebDev : https://webdev.cmaisonneuve.qc.ca/~e2496332/location_voitures/
 
-## GitHub : 
+## GitHub : https://github.com/hbAll853/location_voitures.git
 
 ------------------------------
 Contenu du projet
